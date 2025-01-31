@@ -1,0 +1,19 @@
+DeepSeek-R1-Distill-Qwen-1.5B
+
+ollama run deepseek-r1:1.5b
+DeepSeek-R1-Distill-Qwen-7B
+
+ollama run deepseek-r1:7b
+DeepSeek-R1-Distill-Llama-8B
+
+ollama run deepseek-r1:8b
+DeepSeek-R1-Distill-Qwen-14B
+
+ollama run deepseek-r1:14b
+DeepSeek-R1-Distill-Qwen-32B
+
+ollama run deepseek-r1:32b
+DeepSeek-R1-Distill-Llama-70B
+
+ollama run deepseek-r1:70b
+
